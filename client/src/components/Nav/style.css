@@ -1,0 +1,17 @@
+#search, #saved {
+  
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+
+#search:hover, #saved:hover {
+    color: #3823ec;
+}
+
+#nav {
+    background-color: rgb(231, 115, 6);
+}
+.navbar-brand {
+    color: white;
+}

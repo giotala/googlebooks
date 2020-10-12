@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("https://aeroleads.com/blog/wp-content/uploads/2017/12/static1.squarespace.com_.jpg");
+    background-size: cover;
+	background-attachment: fixed;
+    width:100vw;
+    min-height: 100%;
+    padding-top: 10%;
+    margin: 0px;
+    margin-bottom: 50px;
+    display: table;
+    padding: 180px 20px;
+    color: #ffffff;	    
+   
+}
