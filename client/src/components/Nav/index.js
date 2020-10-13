@@ -8,8 +8,8 @@ function Nav() {
       <a className="navbar-brand" href="/">
         Google Books
       </a>
-      
-      <Link id="search" to="/" className={window.location.pathname === "/" || window.location.pathname === "/" ? "nav-link active" : "nav-link" } > Search </Link>
+      {/* <h1>THE WORLD IS YOUR LIBRARY!</h1> */}
+      {/* <Link id="search" to="/" className={window.location.pathname === "/" || window.location.pathname === "/" ? "nav-link active" : "nav-link" } > Search </Link> */}
       <Link id="saved" to="/saved" className={window.location.pathname === "/saved" || window.location.pathname === "/saved" ? "nav-link active" : "nav-link" } > Saved </Link>
      
     </nav>
